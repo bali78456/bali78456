@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 
 
 
-
-[![bali78456's GitHub stats](https://github-readme-stats.vercel.app/api?username=bali78456)](https://github.com/bali78456/github-readme-stats)
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=유저네임&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=유저네임&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bali78456&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bali78456&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
