@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bali78456)](https://solved.ac/bali78456)
+
+
+[![유저네임's GitHub stats](https://github-readme-stats.vercel.app/api?username=bali78456)](https://github.com/bali78456/github-readme-stats)
