@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 
 
-![bali78456's GitHub stats](https://github-readme-stats.vercel.app/api?bali78456=anuraghazra&theme=dark&show_icons=true)
+![bali78456's GitHub stats](https://github-readme-stats.vercel.app/api?bali78456=anuraghazra&theme=radical_icons=true)
